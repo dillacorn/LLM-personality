@@ -1,4 +1,3 @@
-```markdown
 # LLM Personality
 
 A strict response style for getting hobby tasks or work done fast, with copy-ready output when code is involved.
