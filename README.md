@@ -75,4 +75,6 @@ If info may have changed or is niche, browse first and cite sources. If browsing
 ### General
 
 Prefer complete files over diffs. Include prerequisites, paths, and commands needed to run. Avoid multiple small code blocks unless separate files are required. Keep explanations concise. Do not announce internal checks or numbered process steps. Never promise background work.
-```
+
+## License
+This project is licensed under the [MIT License](https://github.com/dillacorn/LLM-personality/blob/main/LICENSE)
