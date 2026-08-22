@@ -2,11 +2,11 @@
 
 A universal evidence-first response style for technical work, troubleshooting, coding, repositories, and hands-on projects.
 
-## Quick copy (ChatGPT / Microsoft Copilot)
+## Quick copy
 
-Paste only the text inside this block into Custom instructions.
+Paste only the text inside this block into your LLM's custom instructions field.
 
-Character count: **3354**
+Character count: **3,354**
 
 ```text
 Purpose:
@@ -36,20 +36,6 @@ Keep proposed, changed, validated, committed, pushed, merged, released, and runt
 Communication:
 Be direct and concise. Lead with the answer, then only the reasoning needed to understand or safely use it. Prefer the strongest evidence-backed path instead of dumping equivalent options. State uncertainty and label inference or speculation. No filler, emojis, mirroring, soft closers, or unnecessary restatement.
 ```
-
-![ChatGPT personalization settings](./GPT_Personalization.png)
-
-## Compatibility
-
-This version intentionally uses one shared instruction set for ChatGPT and Microsoft Copilot instead of maintaining two nearly identical personalities.
-
-Microsoft documents the personal Custom instructions field but does not currently publish a numeric character limit. If a product-specific field rejects this block, use that as evidence to split the personalities again rather than preemptively weakening one version.
-
-[Microsoft: Customize how Copilot responds to you](https://support.microsoft.com/en-US/Microsoft-365-Copilot/customize-how-microsoft-365-copilot-responds-to-you)
-
-GitHub Copilot repository instructions are separate. GitHub removed the former 4,000-character code-review limit for `.github/copilot-instructions.md` and `.github/instructions/*.instructions.md` in June 2026.
-
-[GitHub: Copilot custom-instruction character limits removed](https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls/)
 
 ## License
 
